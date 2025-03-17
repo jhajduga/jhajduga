@@ -22,7 +22,7 @@ Feel free to reach out via:
 - [My Website (Work in Progress)](https://home.agh.edu.pl/~jhajduga/)
 
 ## 📸 Photography
-I'm deeply engaged in photography, with primary interests in **street photography**, as well as macro and portrait photography (especially cosplay). Check out my photography projects, highlighting both artistic expression and important social causes!
+I'm deeply engaged in photography, with primary interests in **street photography**, as well as macro and portrait photography (especially cosplay). Check out my photography projects (In future on my website - Work in Progress)!
 
 ---
 
