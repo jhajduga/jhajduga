@@ -6,7 +6,7 @@ I'm a passionate **medical physicist, researcher, academic teacher, programmer, 
 - 🎓 Teaching **C, C++, basic computer science, and laboratories focused on ionizing radiation dosimetry in medicine**, especially the analysis of simulation data and the practical use of simulations in medical applications.
 - 🧪 My doctoral research involves the development of a simulation platform (**Dose-3D**) aimed at accurately modeling **spatial radiation dose distributions** within medical phantoms.
 - 💻 Experienced with:
-  - C/C++, Python, Julia
+  - C/C++, Python (and I'm working on getting to know Julia)
   - Geant4 simulations
   - Git and CMake
 - 🔬 Specializing in **medical physics**, particularly focused on developing **3D-printed phantoms** for radiology and radiotherapy applications.
